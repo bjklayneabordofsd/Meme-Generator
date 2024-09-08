@@ -1,0 +1,16 @@
+.Header{
+    background-image: linear-gradient(to right, #672280, #A626D3);
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    height: 2rem;
+    padding: 2.5rem 2rem;
+    color: #FFFFFF;
+}
+
+nav > img {
+    height: 1.5rem;
+    margin-right: .5rem;
+}
